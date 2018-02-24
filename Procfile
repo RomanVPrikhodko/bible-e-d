@@ -1,1 +1,1 @@
-bot: python bible_e_d.py
+web: python bible_e_d.py
